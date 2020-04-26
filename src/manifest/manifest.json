@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "packageName": "nicbot",
   "developer": {
-    "name": "Wollongong SES",
+    "name": "Andrew Short",
     "websiteUrl": "https://{{HOSTNAME}}",
     "privacyUrl": "https://{{HOSTNAME}}/privacy.html",
     "termsOfUseUrl": "https://{{HOSTNAME}}/tou.html"
@@ -15,14 +15,14 @@
     "full": "NIC Bot"
   },
   "description": {
-    "short": "TODO: add short description here",
-    "full": "TODO: add full description here"
+    "short": "NIC SES Teams Bot",
+    "full": "Northern Illawarra SES Teams Bot"
   },
   "icons": {
     "outline": "icon-outline.png",
     "color": "icon-color.png"
   },
-  "accentColor": "#D85028",
+  "accentColor": "#F48603",
   "configurableTabs": [],
   "staticTabs": [
     {
